@@ -1,0 +1,33 @@
+{"Personas":"MIfamilia",
+"Lista":[{
+        "Nombre":"jonathan",
+        "numerof":46,
+        "trabajo":false,
+        "Nacimiento":"2006-04-16"
+    },
+    {
+        "Nombre":"cristian",
+        "numerof":9,
+        "trabajo":true,
+        "Nacimiento":"2005-04-16"
+    },
+    {
+        "Nombre":"lucas",
+        "numerof":23,
+        "trabajo":"false",
+        "Nacimiento":"2005-04-16"    
+    },
+    {
+        "Nombre":"alejo",
+        "numerof":5,
+        "trabajo":"false",
+        "Nacimiento":"2006-12-17" 
+    },
+    {
+        "Nombre":"nahuel",
+        "numerof":36,
+        "trabajo":"false",
+        "Nacimiento":"2005-10-23"
+    }
+      ]
+}
